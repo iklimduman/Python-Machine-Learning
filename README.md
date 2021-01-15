@@ -4,7 +4,9 @@
 
 <h2> Data Preproccessing </h2>
 <p> This part of code is to : 
-  - importing dataset 
-  - encoding dependent and independent variables
-  -spliting dataset into training set and test set
+  <ul>
+    <li> importing dataset </li>
+    <li> encoding dependent and independent variables </li>
+    <li> spliting dataset into training set and test set </li>
+    </ul>
   </p>
